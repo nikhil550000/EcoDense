@@ -47,6 +47,7 @@ This project is licensed under the **MIT License**.
 - **index.tsx**: Entry point of the application, rendering `App.tsx`.
 - **package.json**: Configuration file listing dependencies and project scripts.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oMnwWrz7ytU/0.jpg)][(https://www.youtube.com/watch?v=oMnwWrz7ytU](https://youtu.be/oMnwWrz7ytU))
 
 
 
